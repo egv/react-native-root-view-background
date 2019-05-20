@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.description  = <<-DESC
                   RNRootViewBackground is used to set background color for some views
                    DESC
-  s.homepage     = ""
+  s.homepage     = "https://github.com/egv/react-native-root-view-background.git"
   s.license      = "MIT"
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   s.author             = { "author" => "author@domain.cn" }
